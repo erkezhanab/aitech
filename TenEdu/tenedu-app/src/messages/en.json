@@ -1,0 +1,140 @@
+{
+  "nav": {
+    "courses": "Courses",
+    "dashboard": "Dashboard",
+    "catalog": "Catalog",
+    "profile": "Profile",
+    "admin": "Admin",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Sign Up"
+  },
+  "hero": {
+    "badge": "Kazakhstan's first accessible digital literacy platform",
+    "title": "Equal Education for All",
+    "subtitle": "Digital literacy courses for rural youth and people with disabilities. Free, in Kazakh, works offline.",
+    "cta_main": "Get Started",
+    "cta_secondary": "Browse Courses",
+    "stats": {
+      "tracks": "learning tracks",
+      "lessons": "lessons",
+      "modes": "learning modes",
+      "free": "free"
+    }
+  },
+  "accessibility": {
+    "title": "A learning mode comfortable for you",
+    "subtitle": "Built for everyone",
+    "visual": {
+      "label": "For the visually impaired",
+      "desc": "Auto-voicing, large font, high contrast"
+    },
+    "hearing": {
+      "label": "For the deaf and hard of hearing",
+      "desc": "Captions, visual notifications"
+    },
+    "dyslexia": {
+      "label": "Dyslexia",
+      "desc": "OpenDyslexic font, audio dubbing"
+    },
+    "children": {
+      "label": "Children",
+      "desc": "Gamification, bright buttons"
+    },
+    "standard": {
+      "label": "Standard",
+      "desc": "Regular mode, all tracks"
+    }
+  },
+  "buttons": {
+    "next": "Next",
+    "prev": "Previous",
+    "submit": "Submit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "start": "Start",
+    "continue": "Continue",
+    "complete": "Complete",
+    "download": "Download",
+    "certificate": "Certificate"
+  },
+  "onboarding": {
+    "step1": {
+      "title": "Nice to meet you! What's your name?",
+      "label": "Your name"
+    },
+    "step2": {
+      "title": "How old are you?",
+      "label": "Age"
+    },
+    "step3": {
+      "title": "Are you a teacher or student?",
+      "teacher": "Teacher",
+      "student": "Student",
+      "other": "Other"
+    },
+    "step4": {
+      "title": "How do you prefer to learn?",
+      "video": "Video and text",
+      "text_only": "Text only",
+      "interactive": "Interactive"
+    },
+    "step5": {
+      "title": "Onboarding complete!",
+      "welcome": "Welcome, {{name}}! Ready to start learning?"
+    }
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "welcome": "Welcome, {{name}}!",
+    "inProgress": "In Progress",
+    "completed": "Completed Courses",
+    "continueReading": "Continue Reading"
+  },
+  "catalog": {
+    "title": "Course Catalog",
+    "subtitle": "Choose a learning track that matches your goals. All courses are free and in Kazakh.",
+    "childrenTitle": "My Courses!"
+  },
+  "quiz": {
+    "yourScore": "Your Score",
+    "passed": "Great job!",
+    "failed": "Try again",
+    "passThreshold": "You need 70% to pass",
+    "retake": "Retake Quiz"
+  },
+  "profile": {
+    "title": "My Profile",
+    "settings": "Settings",
+    "language": "Language",
+    "timezone": "Timezone",
+    "notifications": "Notifications",
+    "changePassword": "Change Password",
+    "logout": "Logout"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "tracks": "Tracks",
+    "modules": "Modules",
+    "tests": "Tests",
+    "users": "Users",
+    "feedback": "Feedback",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "language": {
+    "select": "Select Language",
+    "kazakh": "Қазақша",
+    "russian": "Русский",
+    "english": "English"
+  },
+  "content": {
+    "computer_basics": {
+      "title": "Computer Basics",
+      "description": "Computer fundamentals: devices, operating system, files"
+    }
+  }
+}
